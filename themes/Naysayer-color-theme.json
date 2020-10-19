@@ -61,7 +61,15 @@
       "name": "This",
       "scope": "variable.language.this",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#add8e6",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Object property",
+      "scope": "variable.other.object.property",
+      "settings": {
+        "foreground": "#d3b58d"
       }
     },
     {
@@ -86,17 +94,31 @@
       }
     },
     {
-      "name": "Function call",
+      "name": "Function",
       "scope": "entity.name.function, support.function",
       "settings": {
         "foreground": "#d3b58d"
       }
     },
     {
-      "name": "Storage",
-      "scope": "storage.type, storage.modifier",
+      "name": "Function call",
+      "scope": "meta.function-call entity.name.function",
+      "settings": {
+        "foreground": "#79ffcf"
+      }
+    },
+    {
+      "name": "Storage type",
+      "scope": "storage.type",
       "settings": {
         "foreground": "#90EE90"
+      }
+    },
+    {
+      "name": "Storage modifier",
+      "scope": "storage.modifier",
+      "settings": {
+        "foreground": "#ffffff"
       }
     },
     {
@@ -122,10 +144,17 @@
       }
     },
     {
-      "name": "Type",
-      "scope": "entity.name.type, entity.other.inherited-class",
+      "name": "Inherited Class",
+      "scope": "entity.other.inherited-class",
       "settings": {
         "foreground": "#d3b58d"
+      }
+    },
+    {
+      "name": "Type",
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#90EE90"
       }
     },
     {
@@ -144,7 +173,7 @@
     },
     {
       "name": "Class variable",
-      "scope": "variable.object.property, meta.field.declaration entity.name.function",
+      "scope": "variable.object.property",
       "settings": {
         "foreground": "#d3b58d"
       }
