@@ -1,0 +1,25 @@
+{
+  "name": "naysayer-theme",
+  "displayName": "naysayer-theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "naizen",
+  "author": {
+    "name": "Nai Saevang"
+  },
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Naysayer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Naysayer-color-theme.json"
+      }
+    ]
+  }
+}
