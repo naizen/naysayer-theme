@@ -47,13 +47,13 @@
       "name": "Variable",
       "scope": "variable.other.constant, meta.definition.variable, variable.other.readwrite.alias, variable.parameter",
       "settings": {
-        "foreground": "#d3b58d"
+        "foreground": "#add8e6"
       }
     },
     {
       "name": "Object definition property",
       "scope": "meta.definition.property variable.object.property",
-      "settings": { 
+      "settings": {
         "foreground": "#add8e6"
       }
     },
@@ -68,7 +68,7 @@
       "name": "This",
       "scope": "variable.language.this",
       "settings": {
-        "foreground": "#add8e6",
+        "foreground": "#add8e6"
       }
     },
     {
@@ -103,7 +103,7 @@
       "name": "Function",
       "scope": "entity.name.function, support.function",
       "settings": {
-        "foreground": "#d3b58d"
+        "foreground": "#79ffcf"
       }
     },
     {
@@ -237,7 +237,7 @@
       "name": "JSON key",
       "scope": "meta.object-literal.key, meta.object-literal.key string",
       "settings": {
-        "foreground": "#add8e6"
+        "foreground": "#d3b58d"
       }
     },
     {
