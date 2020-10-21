@@ -89,7 +89,7 @@
       "name": "Decorator",
       "scope": "meta.decorator",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#c8d4ec"
       }
     },
     {
@@ -103,7 +103,7 @@
       "name": "Export",
       "scope": "keyword.control.export",
       "settings": {
-        "foreground": "#90EE90"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -138,7 +138,7 @@
       "name": "Storage Function",
       "scope": "storage.type.function",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#90EE90"
       }
     },
     {
@@ -153,7 +153,7 @@
       "name": "Type",
       "scope": "support.type",
       "settings": {
-        "foreground": "#90EE90"
+        "foreground": "#4eee94"
       }
     },
     {
