@@ -279,7 +279,7 @@
       "name": "CSS tag",
       "scope": "source.css entity.name.tag",
       "settings": {
-        "foreground": "#d3b58d"
+        "foreground": "#afeeee"
       }
     },
     {
