@@ -279,7 +279,21 @@
       "name": "CSS tag",
       "scope": "source.css entity.name.tag",
       "settings": {
+        "foreground": "#c8d4ec"
+      }
+    },
+    {
+      "name": "CSS support",
+      "scope": "source.css support.type",
+      "settings": {
         "foreground": "#afeeee"
+      }
+    },
+    {
+      "name": "SCSS Keyword",
+      "scope": "source.css.scss keyword",
+      "settings": {
+        "foreground": "#90EE90"
       }
     },
     {
